@@ -16,7 +16,7 @@ public class StringInput {
         String str2 = sc.nextLine();
         System.out.println("value of next()"+ str2);
 
-
+        sc.close();
 
     }
     

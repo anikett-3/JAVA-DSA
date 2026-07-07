@@ -1,5 +1,3 @@
-package rough;
-
 public class reverse {
     public static void reverseArray(int arr[]){
          int start = 0;

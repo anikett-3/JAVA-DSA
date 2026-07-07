@@ -1,6 +1,6 @@
 
 
-public class Main{
+public class insertionSortTwoo{
     
 // INSERTION SORT--
 public static void insertionSort(int arr[]){
