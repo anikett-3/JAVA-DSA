@@ -55,6 +55,9 @@ public class arrayListMethod {
         //6. indexOf() :--> this method is used to return the index of the first occurrence of the specified element in the list. if the element is not found, it returns -1.
         System.out.println("index of 90 in list is " + list.indexOf(90));
         
+        // 7. lastIndexOf() :--> this method is used to return the index of the last occurrence of the specified element in the list. if the element is not found, it returns -1.
+        list.add(90);   
+        System.out.println("last index of 90 in list is " + list.lastIndexOf(90));
     }
 }
  
