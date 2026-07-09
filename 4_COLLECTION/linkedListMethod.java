@@ -1,9 +1,8 @@
-import java.util.ArrayList;
+
 import java.util.Collections;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Iterator;
-import java.util.*;
+
 public class linkedListMethod {
     public static void main(String[] args) {
         // linkedList is a class which implements List interface and extends AbstractSequentialList class.
