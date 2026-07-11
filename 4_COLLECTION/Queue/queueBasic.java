@@ -5,7 +5,6 @@ package Queue;
 import java.util.Queue;
 import java.util.LinkedList;
 import java.util.ArrayDeque;
-import java.util.Deque;
 
 public class queueBasic {
     public static void main(String[] args) {
