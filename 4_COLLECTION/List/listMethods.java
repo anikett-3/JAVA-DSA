@@ -1,6 +1,5 @@
 // import java.util.*;  // if ye likhenge to sab kam ho ek hi bar ho jaega.
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 import java.util.Iterator;
 public class listMethods{
