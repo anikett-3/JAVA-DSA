@@ -1,5 +1,5 @@
 
-//public class Pattern{
+// public class Pattern{
 //    public static void main(String[] args){
 //        int n = 4;
 //        int m = 5;
@@ -10,7 +10,7 @@
 //            System.out.println();
 //        }
 //    }
-//}
+// }
 
 
 //// Hollow Rectanlge -->
@@ -67,19 +67,19 @@
 //}
 
 
-//public class Pattern{
-//    static void main() {
-//        int n = 4;
-//        int m =4;
-//        for(int i =0;i<n;i++){
-//            for(int  j= 0; j<m; j++){
-//
-//            }
-//        }
-//
-//    }
-//    public static void markRow(int arr[]){
-//        for (int i = 0; i<n)
-//    }
-//}
+public class Pattern{
+   static void main() {
+       int n = 4;
+       int m =4;
+       for(int i =0;i<n;i++){
+           for(int  j= 0; j<m; j++){
+
+           }
+       }
+
+   }
+   public static void markRow(int arr[]){
+       for (int i = 0; i<n)
+   }
+}
 
