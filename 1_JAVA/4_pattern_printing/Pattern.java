@@ -78,8 +78,6 @@ public class Pattern{
        }
 
    }
-   public static void markRow(int arr[]){
-       for (int i = 0; i<n)
-   }
 }
+
 
